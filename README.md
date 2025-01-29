@@ -7,7 +7,7 @@ Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang
 <div align="center">
  <p align='center'>
   <a href="#"><img
-   src="https://github-readme-stats.vercel.app/api?username=Sxp-ID&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
+   src=""
    width="400" title="maskprivate1457 Github Starts"></a>
  </p>
  <p align='center'>
